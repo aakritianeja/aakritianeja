@@ -1,4 +1,4 @@
-### 👋 Exploring the world of data one problem at a time
+### 👋 I'm exploring the world of data one problem at a time
 
 ![](https://img.shields.io/badge/<Data_Science>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
