@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/<Product_Management>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Storytelling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on becoming a Data Scientist (Lets connect if you are looking to hire one!)
+- 🔭 I’m currently working on becoming a Data Scientist (Let's connect if you are looking to hire one!)
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on Machine Learning Projects, Creative Design, and some cooking
 - 💬 Ask me about the last time I pulled an all-nighter and you'd be in for an interesting project story!
