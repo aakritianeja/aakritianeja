@@ -1,12 +1,13 @@
-### I like to solve problems  👋
+### 👋 Exploring the world of data one problem at a time
 
-![](https://img.shields.io/badge/<XGB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<LGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Forecasting>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Data Science>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Strategy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Product Management>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Storytelling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on becoming a Data Scientist (Lets connect if you are looking to hire one!)
-- 🌱 I’m currently learning Machine Learning System Design
+- 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on Machine Learning Projects, Creative Design, and some cooking
 - 💬 Ask me about the last time I pulled an all-nighter and you'd be in for an interesting project story!
 - 📫 How to reach me: https://www.linkedin.com/in/aakritianeja/
