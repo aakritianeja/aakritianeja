@@ -13,6 +13,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/aakritianeja/
 - ⚡ Fun fact: I love Barnes and Nobel more than you like Github :)
 
+I am a science enthusiast, an engineering undergraduate and a current Business Analytics student (graduating May 2023). I am passionate about using data to solve real world problems and I am looking for opportunities in the Data Science and Analytics world, where I can use my expertise to drive impact.
+
+Checkout my personal portfolio for details about my work and projects - https://aakritianeja.wixsite.com/aakriti-aneja
+If my work interests you, let's connect. 
 
 ![Aakriti's github stats](https://github-readme-stats.vercel.app/api?username=aakritianeja&show_icons=true&theme=radical)
 
