@@ -21,6 +21,10 @@ If my work interests you, let's connect.
 
 ![Aakriti's github stats](https://github-readme-stats.vercel.app/api?username=aakritianeja&show_icons=true&theme=radical)
 
+### 📪 Break the visit counter by hitting refresh
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/aakritianeja">
+    <img src="https://profile-counter.glitch.me/aakritianeja/count.svg" />
+</div>
 
 <!--
 **aakritianeja/aakritianeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
