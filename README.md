@@ -19,7 +19,7 @@ Checkout my personal portfolio for details about my work and projects - https://
 
 If my work interests you, let's connect. 
 
-![Aakriti's github stats](https://github-readme-stats.vercel.app/api?username=aakritianeja&show_icons=true&theme=radical)
+![Aakriti's github stats](https://github-readme-stats.vercel.app/api?username=aakritianeja&show_icons=true&theme=radical&envvariable=PAT_1)
 
 ### 📪 Break the visit counter by hitting refresh
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/aakritianeja">
